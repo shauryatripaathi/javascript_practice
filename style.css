@@ -3,9 +3,6 @@
     margin-top: 100px;
 }
 
-#popUpBox{
-    width: 1000px;
-    height: 500px;
-    border: solid black 1px;
-    background-color: black;
+#btn{
+    margin-left: 450px;
 }

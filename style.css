@@ -1,8 +1,26 @@
-#container{
-    margin-left: 100px;
-    margin-top: 100px;
+body{
+    margin: 0%;
 }
 
-#btn{
-    margin-left: 450px;
+#sideBar{
+    padding: 1px;
+    background-color: rgb(137, 207, 32);
+}
+
+#sideBar_contents{
+    color: azure;
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+}
+
+#home_DropBox{
+    width: 30px;
+    height: 50px;
+    background-color: azure;
+    border: 1px solid black;
+}
+
+#home_DropBox{
+    z-index: 1;
 }

@@ -3,26 +3,15 @@ body{
 }
 
 #sideBar{
-    padding: 1px;
-    background-color: rgb(137, 207, 32);
-}
-
-#sideBar_contents{
-    color: azure;
-    list-style-type: none;
-    display: flex;
-    gap: 30px;
-}
-
-#home_DropBox{
-    width: 50px;
-    height: 70px;
-    background-color: azure;
     border: 1px solid black;
+    height:1000px;
+    width: 150px;
+    background-color: black;
 }
 
-#home_DropBox{
-    z-index: 1;
-    margin-top: -20px;
-    margin-left: 50px;
+#sideBarContents{
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 60px;
+    list-style-type: none;
 }

@@ -15,3 +15,20 @@ body{
     margin-top: 60px;
     list-style-type: none;
 }
+
+.navBar{
+    padding: 10px;
+    background-color: yellowgreen;
+    display: flex;
+    gap: 20px;
+}
+.navBar a{
+    text-decoration: none;
+}
+
+#dropbox{
+    border: 1px solid black;
+    width: 100px;
+    height: 300px;
+    background-color: azure;
+}
